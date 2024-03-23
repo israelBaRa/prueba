@@ -1,0 +1,4 @@
+volver con checkout aquí,
+status -s
+show
+dasdsadas
